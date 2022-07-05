@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">3esoLeague</string>
+    <string name="enter_club">Enter Club</string>
+    <string name="add">add</string>
+    <string name="done">done</string>
+    <string name="welcome_to_league">Welcome To League</string>
+    <string name="insert_league_clubs">Insert League Clubs</string>
+    <string name="league_club_names">League Club Names :</string>
+    <string name="set_match">Set Match</string>
+    <string name="enter_first_team">Enter First Team</string>
+    <string name="score1">Score1</string>
+    <string name="score2">Score2</string>
+    <string name="enter_second_team">Enter Second Team</string>
+    <string name="_3eso_league">3eso League</string>
+    <string name="clubs">Clubs</string>
+    <string name="gp">GP</string>
+    <string name="points">Points</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="draw">Draw</string>
+    <string name="GI">+</string>
+    <string name="GO">-</string>
+    <string name="match_results">match results</string>
+    <string name="setMatch">set match</string>
+    <string name="repeat_league">repeat league</string>
+    <string name="delete_table">Delete table</string>
+
+</resources>
